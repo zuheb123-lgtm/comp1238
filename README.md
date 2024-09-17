@@ -3,7 +3,7 @@
 # Number row characters
 - !
 - @
-- #
+- &
 - $
 - %
 
