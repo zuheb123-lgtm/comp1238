@@ -1,6 +1,6 @@
-# comp1238-zuhebmohamud
+# comp1238-zuheb mohamud
 ## Introduction to Data Management
-# Number row characters
+# Number of row characters
 - !
 - @
 - &
