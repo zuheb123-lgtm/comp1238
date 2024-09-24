@@ -10,6 +10,7 @@
 ## Links
 - [Zara Webpage](https://zara.com)
 - [Footlocker Webpage](https://www.footlocker.ca/)
+- [Instagram Page](https://www.instagram.com/)
 ## Emoji Experiments
 - 😊
 - 😏
