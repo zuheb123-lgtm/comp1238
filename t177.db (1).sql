@@ -14,10 +14,10 @@ FROM assignments;
 -- Query 4: Write a query to find the title and course_id of assignments due on 2024-10-08.
 SELECT corse_id, title
 FROM assignments
-WHERE die_date = '2024-10-08';
+WHERE due_date = '2024-10-08';
 
 -- Query 5: Write a query to display the title and due_date of assignments due in October 2024.
-SELECT due_date, title
+SELECT  title, due_date
 FROM assignments
 WHERE due_date LIKE '2024-10';
 
